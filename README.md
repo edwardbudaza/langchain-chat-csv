@@ -46,12 +46,9 @@ To run the code:
 6. The Streamlit application will start, and you can interact with it by uploading a CSV file and asking questions about it. The output will be displayed on the web interface. :computer:
 
 Note: Make sure to replace `OPENAI_API_KEY` with your actual OpenAI API key before running the code.
-
-
+ 
 <p align="center">
     <img src="example1.png" alt="Image 1" width="120%" style="object-fit: cover;">
     <hr />
-    <img src="example2.png" alt="Image 1" width="120%" style="object-fit: cover;">
-   
-   
+    <img src="example2.png" alt="Image 1" width="120%" style="object-fit: cover;">  
 </p>
